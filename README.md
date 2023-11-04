@@ -15,3 +15,10 @@
 
 ## Model Deployment:
 #### Once the CNN model is trained and evaluated, it can be deployed for real-world disease classification tasks. It can be integrated into a user-friendly application or used in conjunction with drones or camera systems in potato fields to automate disease detection and alert farmers in real-time.
+
+![outputpo](https://github.com/rameshkumar359/potato-disease-Image-classification-using-convolution-neural-network/assets/96288285/be633b88-f332-4352-916d-75dd7b3caec4)
+
+![output](https://github.com/rameshkumar359/potato-disease-Image-classification-using-convolution-neural-network/assets/96288285/9e1c7546-ad1a-418d-bea9-42cbbcca44e0)
+
+
+
